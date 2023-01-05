@@ -1,3 +1,7 @@
+# @react-google-maps/api
+
+install packege : npm i @react-google-maps/api
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
